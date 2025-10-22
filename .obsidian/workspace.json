@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "6a23103f976109d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "908c542bd77015bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c4ea3ca8d83278a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "975f18ee365b3247",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ec05694d090f88b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a31e943d8c380127",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c8ca2969a0185630",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#math题目",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bf5d3f902b5fa4df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51a51ad73cad1b4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaab15d4dc910436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19d7faa4c0c4cc2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vocabs/形近词对比.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "形近词对比 的反向链接列表"
+            }
+          },
+          {
+            "id": "7d1f4abd056a541e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vocabs/形近词对比.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "形近词对比 的出链列表"
+            }
+          },
+          {
+            "id": "de8f8313b1a176bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "51fd0bb2259958d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "填空/single/Section 6.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Section 6 的大纲"
+            }
+          },
+          {
+            "id": "8c50e225e90016e3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "cloze:显/隐所有填空": false
+    }
+  },
+  "active": "a31e943d8c380127",
+  "lastOpenFiles": [
+    "RAG-KG",
+    "basic-foundation",
+    "thought-provoking",
+    "填空/single/Section 3.md",
+    "填空/single/Section 1.md",
+    "填空/single/Section 4.md",
+    "填空/single/Section 2.md",
+    "填空/single/Section 6.md",
+    "填空/single/Section 5.md",
+    "1.zip",
+    "填空/single",
+    "vocabs/形近词对比.md",
+    "填空",
+    "未命名.base",
+    "vocabs/story2.md",
+    "vocabs/story1.md",
+    "story.pdf",
+    "vocabs/近义词辨析.md",
+    "vocabs/位置依赖词.md",
+    "vocabs/断链词清单.md",
+    "数学/知识点.md",
+    "数学/错题.md",
+    "未命名 1.base",
+    "文字应用题.md",
+    "数学",
+    "vocabs"
+  ]
+}
