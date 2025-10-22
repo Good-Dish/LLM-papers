@@ -11,10 +11,14 @@
             "id": "0c4ea3ca8d83278a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#math题目",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,8 +181,22 @@
       "cloze:显/隐所有填空": false
     }
   },
-  "active": "a31e943d8c380127",
+  "active": "0c4ea3ca8d83278a",
   "lastOpenFiles": [
+    "RAG-KG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "RAG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "RAG/pic/Pasted image 20251022165826.png",
+    "RAG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "RAG/raw_doc",
+    "RAG/pic",
+    "RAG/doc",
+    "RAG",
+    "README.md",
+    "RAG-KG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "RAG-KG/doc",
+    "RAG-KG/pic",
+    "RAG-KG/raw_doc",
+    "RAG-KG/pic/Pasted image 20251022165826.png",
     "RAG-KG",
     "basic-foundation",
     "thought-provoking",
@@ -188,22 +206,14 @@
     "填空/single/Section 2.md",
     "填空/single/Section 6.md",
     "填空/single/Section 5.md",
-    "1.zip",
-    "填空/single",
     "vocabs/形近词对比.md",
-    "填空",
-    "未命名.base",
     "vocabs/story2.md",
     "vocabs/story1.md",
-    "story.pdf",
     "vocabs/近义词辨析.md",
     "vocabs/位置依赖词.md",
     "vocabs/断链词清单.md",
     "数学/知识点.md",
     "数学/错题.md",
-    "未命名 1.base",
-    "文字应用题.md",
-    "数学",
-    "vocabs"
+    "文字应用题.md"
   ]
 }

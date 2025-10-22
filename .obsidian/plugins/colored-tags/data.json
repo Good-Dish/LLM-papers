@@ -71,7 +71,12 @@
     "vocab/近义词/减弱类": 1,
     "vocab/形近词": 3,
     "vocab/断链": 4,
-    "vocab/高频": 5
+    "vocab/高频": 5,
+    "NLP": 26,
+    "RepresentationLearning": 27,
+    "RAG": 28,
+    "CoT": 29,
+    "Long-Context": 30
   },
   "_version": 3
 }
