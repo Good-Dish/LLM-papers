@@ -2,8 +2,6 @@
 
 _A curated collection of reading notes focused on understanding and synthesizing key ideas in Large Language Models (LLMs)._
 
----
-
 ## 🎯 Purpose
 
 This repository serves as a structured and public record of my academic readings on **LLM-related research**.  
@@ -14,9 +12,6 @@ It aims to:
 - Facilitate clear reflection on **how different research ideas interconnect** across LLM-related subfields.
     
 - Provide an open, well-organized reference that may benefit others exploring similar topics.
-
-
----
 
 ## 📂 Repository Structure
 
@@ -30,8 +25,6 @@ It aims to:
 - **`thought-provoking/`** — Conceptual or analytical papers discussing  
     _LLM behaviors_, _training paradigms_, _emergent capabilities_, and _societal or philosophical reflections_.
     
-
----
 
 ## 🧩 About the Notes
 
@@ -48,8 +41,6 @@ Each note provides:
 > - These notes focus purely on **idea comprehension and reasoning analysis**.  They **do not include any experimental replication or implementation details**.
 > - All notes are **language-polished with AI assistance** for readability and academic clarity.  If any expression or description seems unclear, please feel free to open an _Issue_ or leave a comment.
 
----
-
 ## 🤝 Contribution & Feedback
 
 Feedback, discussion, and suggestions are warmly welcome.  
@@ -57,8 +48,6 @@ If you would like to contribute or discuss specific topics, feel free to:
 
 - Submit a **Pull Request** with improved notes or references
 - Contact me by **email**
-
----
 
 ## 📬 Contact
 
