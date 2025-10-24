@@ -76,7 +76,8 @@
     "RepresentationLearning": 27,
     "RAG": 28,
     "CoT": 29,
-    "Long-Context": 30
+    "Long-Context": 30,
+    "KG": 31
   },
   "_version": 3
 }

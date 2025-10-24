@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "908c542bd77015bf",
+        "id": "f1220a8f48d95466",
         "type": "tabs",
         "children": [
           {
-            "id": "0c4ea3ca8d83278a",
+            "id": "352f312f520eeca1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "填空/single/Section 6.md",
+                "file": "RAG/raw_doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Section 6 的大纲"
+              "title": "Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs 的大纲"
             }
           },
           {
@@ -160,9 +156,19 @@
               "icon": "lucide-ghost",
               "title": "git-view"
             }
+          },
+          {
+            "id": "d27272b82e818982",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,28 +184,37 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "cloze:显/隐所有填空": false
+      "cloze:显/隐所有填空": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c4ea3ca8d83278a",
+  "active": "a31e943d8c380127",
   "lastOpenFiles": [
-    "RAG-KG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
-    "RAG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
-    "RAG/pic/Pasted image 20251022165826.png",
+    "RAG/doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
+    "RAG/README.md",
     "RAG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "RAG/raw_doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名 3.base",
+    "未命名 2.base",
+    "RAG/pic/stitching-collage-1761274637626.png",
+    "RAG/pic/Pasted image 20251023165502.png",
+    "RAG/pic/result.png",
+    "RAG/pic/result.jpeg",
+    "RAG/pic/Pasted image 20251024105146.png",
+    "RAG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "README.md",
+    "RAG-KG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "RAG/pic/Pasted image 20251022165826.png",
     "RAG/raw_doc",
     "RAG/pic",
     "RAG/doc",
     "RAG",
-    "README.md",
     "RAG-KG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "RAG-KG/doc",
     "RAG-KG/pic",
-    "RAG-KG/raw_doc",
     "RAG-KG/pic/Pasted image 20251022165826.png",
-    "RAG-KG",
-    "basic-foundation",
-    "thought-provoking",
     "填空/single/Section 3.md",
     "填空/single/Section 1.md",
     "填空/single/Section 4.md",
