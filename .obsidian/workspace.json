@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1220a8f48d95466",
+        "id": "21ce69924fc60b4b",
         "type": "tabs",
         "children": [
           {
-            "id": "352f312f520eeca1",
+            "id": "ca0f0e4a7c33cfe5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RAG/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -188,10 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a31e943d8c380127",
+  "active": "ca0f0e4a7c33cfe5",
   "lastOpenFiles": [
-    "RAG/doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
+    "RAG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "RAG/README.md",
+    "RAG/doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
     "RAG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "RAG/raw_doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
     "未命名.base",
@@ -203,7 +208,6 @@
     "RAG/pic/result.png",
     "RAG/pic/result.jpeg",
     "RAG/pic/Pasted image 20251024105146.png",
-    "RAG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "README.md",
     "RAG-KG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "RAG/pic/Pasted image 20251022165826.png",
