@@ -1,19 +1,22 @@
 # 📟 Tag Index
 
 |      tag      |                                                                                                            name                                                                                                            |
-| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|:-------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |     #RAG      |   [[doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering\|LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering]]   |
 |               |              [[doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs\|Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs]]              |
+|               |                           [[doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data\|Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data]]                           |
 |     #CoT      | [[RAG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering\|LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering]] |
 |      #KG      |              [[doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs\|Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs]]              |
+|               |                           [[doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data\|Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data]]                           |
 | #Long-Context | [[RAG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering\|LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering]] |
 
 # 🎞 Paper Index
 
 |                                                                                                          name                                                                                                          |           tag           |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------: |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------:|
 | [[doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering\|LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering]] | #RAG #CoT #Long-Context |
 |            [[doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs\|Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs]]            |        #RAG #KG         |
+|                         [[doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data\|Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data]]                         |        #RAG #KG         |
 
 # 🕵️‍♀️ One-Sentence Summaries
 
@@ -21,3 +24,4 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [[doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering\|LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering]] |  Introduces a CoT-driven RAG framework where reasoning steps guide the retrieval of relevant chunks, integrating logical reasoning signals into retrieval and generation.   |
 |            [[doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs\|Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs]]            | Engages LLMs directly in graph exploration, performing stepwise evaluation during KG expansion to enhance reasoning relevance and diversity beyond pure semantic retrieval. |
+|                         [[doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data\|Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data]]                         |                                                              Proposes KGs through programming language syntax                                                               |
