@@ -77,7 +77,10 @@
     "RAG": 28,
     "CoT": 29,
     "Long-Context": 30,
-    "KG": 31
+    "KG": 31,
+    "pretraining": 32,
+    "pr-etraining": 33,
+    "pre-training": 34
   },
   "_version": 3
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
+                "file": "RAG/raw_doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data"
+              "title": "Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning"
             }
           }
         ]
@@ -181,11 +181,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "cloze:显/隐所有填空": false,
@@ -196,12 +194,15 @@
   },
   "active": "a22c60fb76196a73",
   "lastOpenFiles": [
+    "RAG/doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
     "RAG/README.md",
+    "RAG/raw_doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
+    "RAG/pic/Pasted image 20251031150520.png",
+    "RAG/raw_doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
+    "RAG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "RAG/doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
     "RAG/doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
     "RAG/raw_doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
-    "RAG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
-    "RAG/raw_doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
     "模板/模板.md",
     "模板",
     "未命名.base",
@@ -236,8 +237,6 @@
     "vocabs/近义词辨析.md",
     "vocabs/位置依赖词.md",
     "vocabs/断链词清单.md",
-    "数学/知识点.md",
-    "数学/错题.md",
-    "文字应用题.md"
+    "数学/知识点.md"
   ]
 }
