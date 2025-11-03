@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/raw_doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
+                "file": "RAG/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning"
+              "title": "README"
             }
           }
         ]
@@ -194,8 +194,12 @@
   },
   "active": "a22c60fb76196a73",
   "lastOpenFiles": [
-    "RAG/doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
+    "RAG/raw_doc/MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
+    "RAG/doc/MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
     "RAG/README.md",
+    "RAG/doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
+    "RAG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "RAG/pic/Pasted image 20251103215253.png",
     "RAG/raw_doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
     "RAG/pic/Pasted image 20251031150520.png",
     "RAG/raw_doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
@@ -206,7 +210,6 @@
     "模板/模板.md",
     "模板",
     "未命名.base",
-    "RAG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "未命名 1.base",
     "未命名 3.base",
     "未命名 2.base",
@@ -235,8 +238,6 @@
     "vocabs/story2.md",
     "vocabs/story1.md",
     "vocabs/近义词辨析.md",
-    "vocabs/位置依赖词.md",
-    "vocabs/断链词清单.md",
-    "数学/知识点.md"
+    "vocabs/位置依赖词.md"
   ]
 }
