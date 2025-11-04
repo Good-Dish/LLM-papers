@@ -49,5 +49,6 @@
   "Editor@@h3-accent-color@@light": "#AE506E",
   "Editor@@callout-title-color@@light": "#6E4AB9",
   "Editor@@line-hover-indicator": false,
-  "Editor@@inline-code-normal@@light": "#26A62D"
+  "Editor@@inline-code-normal@@light": "#26A62D",
+  "id@@h1-underline": true
 }

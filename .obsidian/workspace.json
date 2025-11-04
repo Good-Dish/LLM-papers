@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG/README.md",
+                "file": "RAG/doc/KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "KG-RAG Bridging the Gap Between Knowledge and Creativity"
+            }
+          },
+          {
+            "id": "a33c52484deaf3fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG/raw_doc/r_KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "r_KG-RAG Bridging the Gap Between Knowledge and Creativity"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#pre-training",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +200,6 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "cloze:显/隐所有填空": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false
@@ -194,18 +207,35 @@
   },
   "active": "a22c60fb76196a73",
   "lastOpenFiles": [
-    "RAG/raw_doc/MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
-    "RAG/doc/MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
     "RAG/README.md",
-    "RAG/doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
+    "RAG/doc/KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
+    "RAG/raw_doc/r_KG-RAG Bridging the Gap Between Knowledge and Creativity.md",
+    "RAG/pic/Pasted image 20251104114356.png",
+    "RAG/pic/Pasted image 20251104112522.png",
+    "RAG/raw_doc/r_MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
+    "RAG/raw_doc/r_Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
+    "RAG/raw_doc/r_LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "academic_writing/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
+    "新建 文本文档.txt",
+    "RAG/doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
+    "academic_writing/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
+    "RAG/doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
+    "academic_writing/MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
+    "academic_writing/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "RAG/doc/MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
+    "academic_writing/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
     "RAG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
+    "RAG/doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
+    "academic_writing",
+    "RAG/raw_doc/r_Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
+    "RAG/raw_doc/r_Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
+    "RAG/raw_doc/MedRAG r_Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
+    "RAG/raw_doc/MedRAG Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot.md",
     "RAG/pic/Pasted image 20251103215253.png",
     "RAG/raw_doc/Exploiting Structured Knowledge in Text via Graph-Guided Representation Learning.md",
     "RAG/pic/Pasted image 20251031150520.png",
     "RAG/raw_doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
     "RAG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
-    "RAG/doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
-    "RAG/doc/Plan-on-Graph Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs.md",
     "RAG/raw_doc/Thinking with Knowledge Graphs Enhancing LLM Reasoning Through Structured Data.md",
     "模板/模板.md",
     "模板",
@@ -219,25 +249,9 @@
     "RAG/pic/result.jpeg",
     "RAG/pic/Pasted image 20251024105146.png",
     "README.md",
-    "RAG-KG/doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
     "RAG/pic/Pasted image 20251022165826.png",
     "RAG/raw_doc",
     "RAG/pic",
-    "RAG/doc",
-    "RAG",
-    "RAG-KG/raw_doc/LongRAG A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering.md",
-    "RAG-KG/doc",
-    "RAG-KG/pic/Pasted image 20251022165826.png",
-    "填空/single/Section 3.md",
-    "填空/single/Section 1.md",
-    "填空/single/Section 4.md",
-    "填空/single/Section 2.md",
-    "填空/single/Section 6.md",
-    "填空/single/Section 5.md",
-    "vocabs/形近词对比.md",
-    "vocabs/story2.md",
-    "vocabs/story1.md",
-    "vocabs/近义词辨析.md",
-    "vocabs/位置依赖词.md"
+    "RAG/doc"
   ]
 }
